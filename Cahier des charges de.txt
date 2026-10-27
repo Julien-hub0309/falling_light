@@ -1,0 +1,24 @@
+Cahier des charges de Falling light : 
+
+But : 
+
+Une partie dure 10 min dans laquelle 5 joueur sont dans la partie, les pilotes et un groupe de 30 zombie qui respawn.
+survivre le temps de la partie et faire des actions qui rapporte des points 
+- tuer des zombie : + 1 point 
+- tuer des pilotes ennemie : récupère celui de l'ennemie tuer 
+- appeler un titan : - 10 point 
+- mort définitif ou sous réserve d'avoir 50 point 
+
+la partie commence la journée ou les zombie sont faible et lent, après 5 min la nuit tombe et les zombies sont plus fort et plus rapide 
+Les joueurs on accès a toute la map, au sol comme en l'air avec du loot trouvable
+
+la partie s'arrête si il reste un joueur en vie, qui sera automatiquement le vainceurs, si les deux dernier meurt en même temps c'est celui qui a le plus de points, sinon les 10 mins sont passer et celui qui a le plus de point gagne 
+
+
+Système de jeu : 
+
+- FPS
+- Systeme jour/nuit 
+- Apocalypse
+
+
